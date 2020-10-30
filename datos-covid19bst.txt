@@ -1,0 +1,6 @@
+5
+Felipe,164545,feber,headache,fatigue,null,null
+Camila,842392,feber,fatigue,null,null,null
+Kevin,487524,feber,headache,fatigue,conjunctivitis,diarrhea
+Jessica,452685,feber,fatigue,null,null,diarrhea
+Melissa,564892,feber,headache,null,null,null
